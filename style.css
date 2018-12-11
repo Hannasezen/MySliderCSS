@@ -55,18 +55,22 @@ header label:hover {
 
 .slide-one {
     background-image: url('./IMG_0379.JPG');
+    background-position: top center;
 }
 
 .slide-two {
     background-image: url('./IMG_1675.JPG');
+    background-position: top center;
 }
 
 .slide-three {
     background-image: url('./IMG_2563.JPG');
+    background-position: top center;
 }
 
 .slide-four {
     background-image: url('./IMG_3054.JPG');
+    background-position: top center;
 }
 
 .slide h1 {
